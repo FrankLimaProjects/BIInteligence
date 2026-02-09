@@ -33,6 +33,20 @@ Criação de dashboards com foco em UX/UI (design no Canva) e publicação segur
 * **Fontes Heterogêneas:** Consolidação de dados de APIs REST e bancos de dados locais.
 * **Segurança (RLS):** Implementação de *Row-Level Security* para que cada gestor visualize apenas os dados de sua unidade.
 
+* ## 📸 Demonstração Visual dos Dashboards
+
+### 1. Engenharia de Base
+*Análise detalhada da infraestrutura e performance da engenharia de base, monitorando indicadores críticos para a operação.*
+![Engenharia de Base](Engenharia%20de%20base.png)
+
+### 2. Gestão de Treinamentos e Cursos
+*Painel focado no desenvolvimento do capital humano, acompanhando o progresso e a adesão dos funcionários aos cursos oferecidos.*
+![Cursos de funcionários](Cursos%20de%20funcionários.png)
+
+### 3. Monitoramento de Segurança
+*Dashboard estratégico para controle de incidentes, níveis de conformidade e métricas de segurança patrimonial ou digital.*
+![Segurança](Segurança.png)
+
 ## 📈 Resultados Gerados
 * **Escalabilidade:** Aplicado em mais de 25 setores.
 * **Agilidade:** Dados atualizados automaticamente até 8x ao dia via OneLake.
