@@ -15,7 +15,7 @@ Este projeto consistiu no desenvolvimento de um ecossistema completo de Intelig�
 ## 🗺️ Fluxo de Governança e Inteligência de Negócios
 *Mapeamento completo do ciclo de vida do dado: desde o levantamento de requisitos com gestores até a entrega de insights estratégicos para a alta diretoria.*
 
-![Fluxo de Governança e Inteligência de Negócios](arquitetura-solucao.png)
+![Fluxo de Governança e Inteligência de Negócios](Fluxo de Governança e Inteligência de Negócios.png)
 
 ---
 
