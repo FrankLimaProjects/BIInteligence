@@ -10,6 +10,13 @@ Este projeto consistiu no desenvolvimento de um ecossistema completo de Intelig�
 * **Inteligência:** Power BI Desktop (Linguagem DAX).
 * **Distribuição:** Power BI Service e Microsoft Fabric (OneLake).
 
+* ---
+
+## 🗺️ Fluxo de Governança e Inteligência de Negócios
+*Mapeamento completo do ciclo de vida do dado: desde o levantamento de requisitos com gestores até a entrega de insights estratégicos para a alta diretoria.*
+
+![Fluxo de Governança e Inteligência de Negócios](arquitetura-solucao.png)
+
 ---
 
 ## 🚀 Metodologia de Implementação
