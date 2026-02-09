@@ -35,6 +35,16 @@ Criação de dashboards com foco em UX/UI (design no Canva) e publicação segur
 
 ---
 
+## 🧠 Inteligência e Lógica de Negócio (DAX)
+Para garantir que os dashboards entregassem insights acionáveis, foram desenvolvidas medidas personalizadas para cálculos de performance.
+
+```dax
+// Exemplo de Cálculo de Evolução Mensal (MoM %)
+Evolução % = 
+VAR ValorAnterior = CALCULATE([Total Indicador], DATEADD('Calendario'[Data], -1, MONTH))
+RETURN
+DIVIDE([Total Indicador] - ValorAnterior, ValorAnterior, 0)
+```
 ## 🔄 Variações e Flexibilidade Técnica
 * **Fontes Heterogêneas:** Consolidação de dados de APIs REST e bancos de dados locais.
 * **Segurança (RLS):** Implementação de *Row-Level Security* para que cada gestor visualize apenas os dados de sua unidade.
